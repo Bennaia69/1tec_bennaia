@@ -1,7 +1,11 @@
 body{
 color: #75B1FF;
 background: #0005A4;
+margin: 0px;
 }
 header {
     border-bottom: solid 2px whitesmoke;
+    padding: 10px;
+    font-size: 35px;
+    color: whitesmoke;
 }
