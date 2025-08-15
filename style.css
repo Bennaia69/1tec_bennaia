@@ -1,11 +1,21 @@
-body{
+body{ 
 color: #75B1FF;
-background: #0005A4;
+background: #61BCFF;
 margin: 0px;
+  font-family: "Pixelify Sans", sans-serif;
 }
 header {
     border-bottom: solid 2px whitesmoke;
     padding: 10px;
     font-size: 35px;
     color: whitesmoke;
+}
+section{
+    background: #005CA6;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.call-text{
+    margin-right: 5%;
 }
